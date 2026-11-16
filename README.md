@@ -2,7 +2,7 @@
 
 Umbau einer gekauften Halloween-Wahrsagerin (nur Licht, 3× AAA): Mit **Arduino Nano**, **DFPlayer Mini** und **PIR-Bewegungsmelder** flackert die Kristallkugel ruhig vor sich hin. Kommt jemand vorbei, wird das Licht hell und die Figur spricht einen zufälligen Spruch von der SD-Karte.
 
-Video-Anleitung (Deutsch): *Link folgt*
+Video-Anleitung (Deutsch): https://youtu.be/9luMUZIW_CU
 
 ## Funktion
 1. Start: 40 s Aufwärmzeit für den PIR, das Licht flackert schon ruhig.
